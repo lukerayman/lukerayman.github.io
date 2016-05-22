@@ -8,6 +8,13 @@
             "mode": 0
         },
         {
+            "name": "America Party",
+            "hostname": "104.131.118.8",
+            "game_port": 443,
+            "stats_port": 88,
+            "mode": 0
+        },
+        {
             "name": "Europe FFA",
             "hostname": "91.134.143.114",
             "game_port": 443,
