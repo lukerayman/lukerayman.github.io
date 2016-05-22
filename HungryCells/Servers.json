@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "America FFA",
-            "hostname": "104.131.118.8",
+            "hostname": "149.56.143.1",
             "game_port": 443,
             "stats_port": 88,
             "mode": 0
